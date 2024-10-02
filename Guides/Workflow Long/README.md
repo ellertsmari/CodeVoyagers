@@ -93,15 +93,11 @@ Clic on the tab ```Projects``` and then create a new Project in Github.
 
 <img src="screenshots/S05P1.png"/>
 
-Now you can create the project:
+Use the ```Kanban``` template:
 
 <img src="screenshots/S05P2.png"/>
 
-Use the ```Team Backlog``` template:
-
-<img src="screenshots/S05P3.png"/>
-
-We will work with this 5 columns. Please remove the default left most one:
+Your project should now look something like this:
 
 <img src="screenshots/S05P4.png"/>
 
@@ -125,10 +121,13 @@ git push origin main
 
 * **Step 7: Creating Github rules for main branch and develop branch.**
 
-Clic on the tab ```Settings``` and then create rules for main and develop branches in Github.
-
+Clic on the tab ```Settings``` and select the ```Add classic branch protection``` option:
 
 <img src="screenshots/S07P1.png"/>
+
+Then create rules for main and develop branches in Github.
+
+<img src="screenshots/S07P2.png"/>
 
 * **Step 8: Creating a local project in Visual Studio Code.**
 

@@ -129,10 +129,9 @@ Then create rules for main and develop branches in Github.
 
 <img src="screenshots/S07P2.png"/>
 
-* **Step 8: Creating a local project in Visual Studio Code.**
+* **Step 8: Starting a local project in Visual Studio Code.**
 
-Just create a new local project in Visual Studio Code in a new folder.
-
+Create the files you need for your project (like index.html, styles.css etc) or use a starter pack like vite or create-next-app.
 
 ### Steps all along the project (Backlog)
 

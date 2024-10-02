@@ -14,7 +14,7 @@ You need a working environment with:
 
 ## The steps of this step-by-step short guide (in just one image)
 
-<img src="screenshots/screenshot-00.png"/>
+<img src="screenshots/flowchart.png"/>
 
 [Download this image as PDF file](docs/20231122-Git-Step-By-Step.pdf)
 
@@ -80,34 +80,30 @@ In the preliminary steps you just have to start working with git following this 
 
 Log in with your Github account and create a new repository.
 
-<img src="screenshots/screenshot-47-short.png"/>
+<img src="screenshots/S04P1.png"/>
 
 Add the collaborators to the repository:
 
-<img src="screenshots/screenshot-20-short-1.png"/>
+<img src="screenshots/S04P2.png"/>
 
 
 * **Step 5: Creating a Github project.**
 
 Clic on the tab ```Projects``` and then create a new Project in Github.
 
-<img src="screenshots/screenshot-04-short.png"/>
+<img src="screenshots/S05P1.png"/>
 
 Now you can create the project:
 
-<img src="screenshots/screenshot-05-short.png"/>
+<img src="screenshots/S05P2.png"/>
 
 Use the ```Team Backlog``` template:
 
-<img src="screenshots/screenshot-06-short.png"/>
+<img src="screenshots/S05P3.png"/>
 
 We will work with this 5 columns. Please remove the default left most one:
 
-<img src="screenshots/screenshot-07-short.png"/>
-
-We will work with the following board columns, so that please delete the first default one:
-
-<img src="screenshots/screenshot-04-short.png"/>
+<img src="screenshots/S05P4.png"/>
 
 * **Step 6: Creating main and develop branches locally and push your first commit.**
 
@@ -132,7 +128,7 @@ git push origin main
 Clic on the tab ```Settings``` and then create rules for main and develop branches in Github.
 
 
-<img src="screenshots/screenshot-22-short.png"/>
+<img src="screenshots/S07P1.png"/>
 
 * **Step 8: Creating a local project in Visual Studio Code.**
 
@@ -145,11 +141,11 @@ Just create a new local project in Visual Studio Code in a new folder.
 
 In your Github project create a new Item in the Backlog column. In this column you will be creating all project tasks:
 
-<img src="screenshots/screenshot-09-short.png"/>
+<img src="screenshots/S09P1.png"/>
 
 Now the item has been created in the Backlog column:
 
-<img src="screenshots/screenshot-10-short.png"/>
+<img src="screenshots/S09P2.png"/>
 
 
 ### Steps during Scrum sprint design (Ready)
@@ -158,32 +154,32 @@ Now the item has been created in the Backlog column:
 
 At the beginning of a new scrum sprint you have to drag the items you are going to work on during the sprint to the Ready column:
 
-<img src="screenshots/screenshot-11-short.png"/>
+<img src="screenshots/S10P1.png"/>
 
 
 * **Step 11: Converting items in issues.**
 
 Now we will convert the item in an issue to get an issue number. Click on the 3 dots for that:
 
-<img src="screenshots/screenshot-13-short-1.png"/>
+<img src="screenshots/S11P1.png"/>
 
 Here you can see the assigned number for the issue is #1, and the icon shows that now is an issue and not an item any longer.
 
-<img src="screenshots/screenshot-15-short-1.png"/>
+<img src="screenshots/S11P2.png"/>
 
 
 * **Step 12: Assigning repository to the issue.**
 
 Clic on the issue to assign a respository to the issue:
 
-<img src="screenshots/screenshot-14-short-1.png"/>
+<img src="screenshots/S12P1.png"/>
 
 
 * **Step 13: Assigning issues to developers.**
 
 Clic on the issue title and you will get the following window where you can add an assignee who will work on the issue:
 
-<img src="screenshots/screenshot-16-short.png"/>
+<img src="screenshots/S13P1.png"/>
 
 
 ### Steps developing an issue (In progress)
@@ -192,7 +188,7 @@ Clic on the issue title and you will get the following window where you can add 
 
 Here you can now see the issue with its number, its respository assigned, as well as the developer assigned:
 
-<img src="screenshots/screenshot-18-short-1.png"/>
+<img src="screenshots/S14P1.png"/>
 
 
 * **Step 15: Creating a new branch locally from develop with name issue#n**
@@ -249,11 +245,11 @@ git push origin issue#1
 
 In your Github repository you can now see the following:
 
-<img src="screenshots/screenshot-19-short.png"/>
+<img src="screenshots/S18P1.png"/>
 
 Clicking on the "compare & pull request" green button you will get this new window, where you will enter the data for the pull request and clic on "create pull request":
 
-<img src="screenshots/screenshot-33-short.png"/>
+<img src="screenshots/S18P2.png"/>
 
 
 ### Steps in Github to Review a pull request (Review)
@@ -262,15 +258,15 @@ Clicking on the "compare & pull request" green button you will get this new wind
 
 Once you have in previous step created the pull request you get this window where you can see that reviewer shouldn't be the same person who pushed the issue:
 
-<img src="screenshots/screenshot-34-short.png"/>
+<img src="screenshots/S19P1.png"/>
 
 A different developer who works as reviewer should be the one who reviews the code clicking on the "add your review" button. Pay attention to reviewing from issue#1 to develop:
 
-<img src="screenshots/screenshot-41-short.png"/>
+<img src="screenshots/S19P2.png"/>
 
 In the following window you can approve or request changes, and comment the code done in the issue:
 
-<img src="screenshots/screenshot-43-short.png"/>
+<img src="screenshots/S19P3.png"/>
 
 
 ### Steps in Github to merge (Done)
@@ -279,7 +275,7 @@ In the following window you can approve or request changes, and comment the code
 
 Once you have, in previous step, submitted the review, you can now merge to develop from issue#1:
 
-<img src="screenshots/screenshot-44-short.png"/>
+<img src="screenshots/S20P1.png"/>
 
 
 * **Step 21: Same steps 18 to 20 but now to merge from develop to main**

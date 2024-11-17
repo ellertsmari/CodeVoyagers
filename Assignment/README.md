@@ -25,6 +25,6 @@ Within these terms, each team are free to choose its own platform, layout and co
 
 ## Deadline & Presentation
 
-Deadline for the project is set to March 18 where your team will be expected to make a presentation of the application.
+Deadline for the project is set to March 11 where your team will be expected to make a presentation of the application.
  
 Good luck

@@ -42,20 +42,6 @@
    </td>
   </tr>
   <tr style="background-color: #FF9999">
-   <td>Collaboration
-   </td>
-   <td>There was no mention of the it in the presentation
-   </td>
-   <td>I did not understand how it was from what was presented
-   </td>
-   <td>I did not get a clear picture of who did what or what the moral was like in the group 
-   </td>
-   <td>It got a good understanding of it, who did what and how the moral was in the group
-   </td>
-   <td>I got a feeling that I knew exactly how things had been within the group during the group work.
-   </td>
-  </tr>
-  <tr style="background-color: #FF9999">
    <td>Design
    </td>
    <td>It looks like they did not think about design at all

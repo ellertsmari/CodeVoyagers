@@ -2,28 +2,28 @@
 
 Week<br />___________ | Monday<br />___________ | Tuesday<br />___________ | Wednesday<br />___________ | Thursday<br />___________ | Friday<br />___________ | Saturday<br />___________ | Sunday<br />___________ 
 -- | -- | -- | -- | -- | -- | -- | --
-`ONLINE`<br />&nbsp; | `26/02`<br />Design Sprint<br /> | `27/02`<br />Design Sprint | `28/02`<br />Design Sprint | `29/02`<br />Design Sprint | `01/03`<br />Design Sprint | `02/03`<br />Get packed | `03/03`<br />Departure
-`LAS PALMAS`<br />&nbsp; | `04/03`<br />Meetup | `05/03`<br />Project Work | `06/03`<br />Project Work | `07/03`<br />Project Work | `08/03`<br />Project Work | `09/03`<br />Activity | `10/03`<br />Free
-`LAS PALMAS`<br />&nbsp; | `11/03`<br />Project Work | `12/03`<br />Project Work | `13/03`<br />Project Work | `14/03`<br />Project Work | `15/03`<br />Presentation | `16/03`<br />Departure | `17/03`<br />Departure
+`ONLINE`<br />&nbsp; | `24/03`<br />Design Sprint<br /> | `25/03`<br />Design Sprint | `26/03`<br />Design Sprint | `27/03`<br />Design Sprint | `28/03`<br />Design Sprint | `29/03`<br />Get packed | `30/03`<br />Departure
+`LAS PALMAS`<br />&nbsp; | `31/03`<br />Meetup | `01/04`<br />Project Work | `02/04`<br />Project Work | `03/04`<br />Project Work<br />Common Activity | `04/04`<br />Project Work | `05/04`<br />Free | `06/04`<br />Free
+`LAS PALMAS`<br />&nbsp; | `07/04`<br />Project Work | `08/04`<br />Project Work | `09/04`<br />Project Work | `10/04`<br />Project Work | `11/04`<br />Presentation | `12/04`<br />Departure<br />Free | `12/04`<br />Departure
 
 ## Planning Project in March
 
-### 04.03 Monday - Meetup @ El Rincon
+### 31.03 Monday - Meetup @ El Rincon
 * 08:00am - Meeting at IES El Rincón school. Teachers will make an introduction to the 2 following weeks.
 * 09:00am - Spanish students pick a place and they go with other students of their group.
 * 13:00am - Students are back at the school. Each group make a 5 min. talk about what they have done and/or what their project is about.
 * 14:00am - All is done for today. Tomorrow starts the Project work at IES El Rincón.
 
-### 05.03 Tuesday to 08.03 Friday - Project Work
+### 01.04 Tuesday to 04.04 Friday - Project Work
 All groups work on their project.
 
-### 09.03 Saturday - Common Activity
-Spanish students make some activity for the rest of the participants and make something fun together.
+### 04.04 Friday from noon - Common Activity
+A common group of students make some activity for the rest of the participants and make something fun together.
 
-### 11.03 Monday to 14.03 Thursday - Project Work
+### 07.04 Monday to 10.04 Thursday - Project Work
 All groups work on their project.
 
-### 15.03 Friday - Final Presentation
+### 11.04 Friday - Final Presentation
 Students present their project.
 
 ### Tech Stack

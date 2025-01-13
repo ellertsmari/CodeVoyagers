@@ -1,4 +1,4 @@
-# The Sustainable Island 2024
+# The Sustainable Island 2025
  
 A digital, Erasmus+ funded collaboration between WEB-Developer students from I.E.S. El Rincon, Las Palmas de Gran Canaria, Tækniskolinn, Reykjavik, Iceland and  TECHCOLLEGE, Aalborg, Denmark.
 

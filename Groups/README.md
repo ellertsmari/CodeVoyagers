@@ -9,6 +9,6 @@ Group 4 | Daniel Yezid (ES) | Emil (DK)| Magnea (ISK)| Dröfn (ISK) | -  | -
 Group 5 | Echedey (ES) | Isaac (ES) | Nicolas (DK)| Luke (ISK) | -  | -
 Group 6 | Mauricio (ES) | Nabi (ES) | Mikkel (DK)| Monika (ISK) | -  | -
 Group 7 | Daniel (ES) | Aythami (ES) | Andreas (DK)| Gabriel (ISK) | -  | -
-Group 8 | Mayer Alberto (ES) | Cynthia (ES) | William (DK) | Chris Rafael (ISK) | Margarida (ISK)  | -
+Group 8 | Mayer Alberto (ES) | Cynthia (ES) | William (DK) | Chris Rafael (ISK) | Margarida (ISK) | -
 Group 9 | Attakpa (SE) | Gabriel R. Pulido (ES) | Rafal (ES) | Fannar (ISK) | -  | -
 Group 10 | Madiou (ES) | Yamiley (ES) | Max (DK) | Alice (ISK) | -  | -

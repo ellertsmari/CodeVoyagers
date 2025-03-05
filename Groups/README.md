@@ -1,6 +1,6 @@
 # Groups
 
-Group Name  | 1                 | 2                     | 3             | 4                     |               | 5 | Link for repo 
+Group Name  | 1                 | 2                     | 3             | 4                     | 5             | Link for repo 
  --         | --                | --                    | --            | --                    | --            | --
 Group 1     | Aimar (ES)        | Diago (ES)            | Benjamin (DK) | Angelika (ISK)        | -             | -  
 Group 2     | Victor (ES)       | Miguel (ES)           | Frederik (DK) | Kristín Eva (ISK)     | -             | - 

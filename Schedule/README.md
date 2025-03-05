@@ -4,7 +4,7 @@ Week<br />___________ | Monday<br />___________ | Tuesday<br />___________ | Wed
 -- | -- | -- | -- | -- | -- | -- | --
 `ONLINE`<br />&nbsp; | `24/03`<br />Design Sprint<br /> | `25/03`<br />Design Sprint | `26/03`<br />Design Sprint | `27/03`<br />Design Sprint | `28/03`<br />Design Sprint | `29/03`<br />Get packed | `30/03`<br />Arrival
 `LAS PALMAS`<br />&nbsp; | `31/03`<br />Meetup | `01/04`<br />Project Work | `02/04`<br />Project Work | `03/04`<br />Project Work | `04/04`<br />Project Work<br />Common Activity | `05/04`<br />Free | `06/04`<br />Free
-`LAS PALMAS`<br />&nbsp; | `07/04`<br />Project Work | `08/04`<br />Project Work | `09/04`<br />Project Work | `10/04`<br />Project Work | `11/04`<br />Presentation | `12/04`<br />Free | `12/04`<br />Going home
+`LAS PALMAS`<br />&nbsp; | `07/04`<br />Project Work | `08/04`<br />Project Work | `09/04`<br />Project Work | `10/04`<br />Project Work | `11/04`<br />Presentation | `12/04`<br />Free | `13/04`<br />Going home
 
 ## Planning Project in March
 

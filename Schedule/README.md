@@ -2,7 +2,7 @@
 
 Week<br />___________ | Monday<br />___________ | Tuesday<br />___________ | Wednesday<br />___________ | Thursday<br />___________ | Friday<br />___________ | Saturday<br />___________ | Sunday<br />___________ 
 -- | -- | -- | -- | -- | -- | -- | --
-`ONLINE`<br />&nbsp; | `24/03`<br />Introduction to design sprint<br /> | `25/03`<br />Design Sprint | `26/03`<br />GitHub Exercise<br />Design Sprint | `27/03`<br />Design Sprint | `28/03`<br />Group presentations of design sprints | `29/03`<br />Get packed | `30/03`<br />Arrival
+`ONLINE`<br /><br />&nbsp; | `24/03`<br />Introduction to design sprint<br /> | `25/03`<br />Design Sprint<br />&nbsp; | `26/03`<br />GitHub Exercise<br />Design Sprint | `27/03`<br />Design Sprint<br />&nbsp; | `28/03`<br />Group presentations of design sprints | `29/03`<br />Get packed<br />&nbsp; | `30/03`<br />Arrival<br />&nbsp;
 `LAS PALMAS`<br />&nbsp; | `31/03`<br />Meetup<br />Icebreaker Activity | `01/04`<br />Project Work<br /> | `02/04`<br />Project Work | `03/04`<br />Project Work | `04/04`<br />Project Work<br />Common Activity | `05/04`<br />Free | `06/04`<br />Free
 `LAS PALMAS`<br />&nbsp; | `07/04`<br />Project Work | `08/04`<br />Project Work | `09/04`<br />Project Work | `10/04`<br />Project Work | `11/04`<br />Presentation | `12/04`<br />Free | `13/04`<br />Going home
 
@@ -13,7 +13,7 @@ Week<br />___________ | Monday<br />___________ | Tuesday<br />___________ | Wed
 <br>09:00 - 14:00 (10:00 - 15:00 Danish time): Common online meeting at Discord. You'll get an invite.
 * **Wednesday**<br> 08:00 - 14:00 (09:00 - 15:00 Danish time): Introduction to the Github branching model by Tiburcio.
 * **Friday:** 
-<br />08:00 (09:00 Danish time): Work on the design sprint<br />14:00 (15:00 Danish time): Presentaions of the danish sprint. Each group make a 5 min. talk about what they have done and/or what their project is about.
+<br />08:00 (09:00 Danish time): Work on the design sprint<br />13:00 (14:00 Danish time): Presentaions of the danish sprint. Each group make a 5 min. talk about what they have done and/or what their project is about.
 * **Tuesday & Thursday** <br />08:00 - 14:00 (09:00 - 15:00 Danish time): Group work on the design sprint.
 
 ### 31.03 Monday - Meetup @ El Rincon

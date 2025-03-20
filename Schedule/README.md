@@ -17,8 +17,8 @@ Week<br />___________ | Monday<br />___________ | Tuesday<br />___________ | Wed
 * **Tuesday & Thursday** <br />08:00 - 14:00 (09:00 - 15:00 Danish time): Group work on the design sprint.
 
 ### 31.03 Monday - Meetup @ El Rincon
-* 08:00 - Meeting at IES El Rincón school. Teachers will make an introduction to the 2 following weeks.
-* 09:00 - Spanish students pick a place and they go with other students of their group.
+* 09:00 - Meeting at IES El Rincón school. Teachers will make an introduction to the 2 following weeks.
+* 10:00 - Spanish students pick a place and they go with other students of their group.
 * 13:00 - Students are back at the school. Each group make a 5 min. talk about what they have done and/or what their project is about.
 * 14:00 - All is done for today. Tomorrow starts the Project work at IES El Rincón.
 
@@ -36,7 +36,7 @@ Students present their project.
 
 ### Tech Stack
 * Base should be React.
-* Find hosting for database.
+* Find hosting for database. (Render.com, Netlify, Railway)
 
 ### What are the expected deliverables from students?
 - Link to live page.
